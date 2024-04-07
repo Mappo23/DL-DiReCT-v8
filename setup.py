@@ -10,7 +10,7 @@ setup(
     description='DL+DiReCT - Direct Cortical Thickness Estimation using Deep Learning-based Anatomy Segmentation and Cortex Parcellation',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/SCAN-NRAD/DL-DiReCT',
+    url='https://github.com/Mappo23/DL-DiReCT-v8',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Science/Research',

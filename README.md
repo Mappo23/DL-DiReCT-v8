@@ -30,7 +30,7 @@ source activate DL_DiReCT
 ```bash
 cd ${HOME}
 git clone https://github.com/Mappo23/DL-DiReCT-v8
-cd DL-DiReCT
+cd DL-DiReCT-v8
 pip install numpy && pip install -e .
 ```
 

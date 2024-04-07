@@ -39,7 +39,7 @@ Run dl+direct on a patient T1-weighted MRI with:
 ```bash
 source activate DL_DiReCT
 
-dl+direct -n -k -model v8 <path_to_t1_input.nii.gz> <output_dir>
+dl+direct -n -k --model v8 <path_to_t1_input.nii.gz> <output_dir>
 ```
 
 Following files of interest are generated in the output directory:

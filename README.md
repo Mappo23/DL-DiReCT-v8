@@ -2,7 +2,7 @@
 
 DL+DiReCT combines a deep learning-based neuroanatomy segmentation and cortex parcellation with a diffeomorphic registration technique to measure cortical thickness from T1w MRI.
 
-This repo is a copy of the orginal that seves as demo for the new retrained version of the model (i.e. **v8**). With this (retrained) version the model gain lesion awareness and hypointensities regions segmentation.  We include few patient data examples to test model on ```/pat``` folder.
+This repo is a copy of the orginal that seves as demo for the new retrained version of the model (i.e. **v8**). With this (retrained) version the model gain lesion awareness and hypointensities regions segmentation.  We include few patient data examples to test model on ```/pat_test_data``` folder.
 
 To ensure consistency with the companion thesis work, we will only cover the segmentation capabilities only of the DL+DiReCT pipeline.
 
@@ -46,9 +46,9 @@ Following files of interest are generated in the output directory:
 ```
 - T1w_norm.nii.gz		Re-sampled input volume
 - T1w_norm_seg.nii.gz		Segmentation
-- seg_<ROI>.nii.gz              *ROI* label probability map   
-- lesion.nii.gz                 *lesion* label probability map   
-- brain.niingz                  *brain* mask probability map
+- seg_<ROI>.nii.gz              <ROI> label probability map   
+- lesion.nii.gz                 lesion label probability map   
+- brain.nii.gz                  brain mask probability map
 - result-vol.csv		Segmentation volumes
 - label_def.csv			Label definitions of the segmentation
 ```

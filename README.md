@@ -2,7 +2,7 @@
 
 DL+DiReCT combines a deep learning-based neuroanatomy segmentation and cortex parcellation with a diffeomorphic registration technique to measure cortical thickness from T1w MRI.
 
-This repo is a copy of the [original](https://github.com/SCAN-NRAD/DL-DiReCT) and serves as a demo for the new retrained version of the model (i.e. **v8**). With this (retrained) version the model gain lesion awareness and hypointensities regions segmentation.  We include few patient data examples to test model on ```/pat_test_data``` folder.
+This repo is a copy of the [original](https://github.com/SCAN-NRAD/DL-DiReCT) and serves as a demo for the new retrained version of the model (i.e. **v8**). With this (retrained) version the model gain lesion awareness and hypointensities regions segmentation. In ```/pat_test_data``` folder we include few patient data examples in order to test model.
 
 To ensure consistency with the companion thesis work, we will only cover the segmentation capabilities only of the DL+DiReCT pipeline.
 

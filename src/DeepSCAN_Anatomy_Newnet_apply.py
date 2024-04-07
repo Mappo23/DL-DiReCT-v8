@@ -25,7 +25,7 @@ from numpy import require
 #    SAVE_LOGITS_FILTER = ['Left-Cerebral-White-Matter', 'Right-Cerebral-White-Matter', 'WM-hypointensities',
 #                          'Left-Cerebral-Cortex', 'Right-Cerebral-Cortex',
 #                          'Left-Amygdala', 'Right-Amygdala', 'Left-Hippocampus', 'Right-Hippocampus']
-SAVE_LOGITS_FILTER = ['Left-Cerebral-White-Matter', 'Right-Cerebral-White-Matter', 'WM-hypointensities',
+SAVE_LOGITS_FILTER = ['Left-Cerebral-White-Matter', 'Right-Cerebral-White-Matter', 'lesion',
                       'Left-Cerebral-Cortex', 'Right-Cerebral-Cortex',
                       'Left-Amygdala', 'Right-Amygdala', 'Left-Hippocampus', 'Right-Hippocampus']
 

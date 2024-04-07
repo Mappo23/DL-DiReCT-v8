@@ -37,7 +37,7 @@ setup(
                                       'stats2table=stats2table:main', 'radiomics_extractor=radiomics_extractor:main', 'radiomics2table=radiomics2table:main']},
     project_urls={  # Optional
         #'Bug Reports': 'https://github.com/SCAN-NRAD/DL-DiReCT/issues',
-        'Source': 'https://github.com/SCAN-NRAD/DL-DiReCT',
+        'Source': 'https://github.com/Mappo23/DL-DiReCT-v8',
         'Publication': 'https://doi.org/10.1002/hbm.25159'
     },
 )

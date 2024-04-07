@@ -29,7 +29,7 @@ source activate DL_DiReCT
 ## Install DL+DiReCT
 ```bash
 cd ${HOME}
-git clone https://github.com/SCAN-NRAD/DL-DiReCT.git
+git clone https://github.com/Mappo23/DL-DiReCT-v8
 cd DL-DiReCT
 pip install numpy && pip install -e .
 ```

@@ -54,7 +54,7 @@ Following files of interest are generated in the output directory:
 ```
 
 
-Lesion region is identified by label code ```50000```, the associated color is *bright yellow*.
+```lesion``` region is identified by label code ```50000```, the associated color is *bright yellow*.
 
 
 ## Other Available Models

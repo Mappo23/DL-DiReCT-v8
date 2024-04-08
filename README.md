@@ -57,6 +57,7 @@ Following files of interest are generated in the output directory:
 
 ```lesion``` region is identified by label code ```50000```, the associated color is *bright yellow*.
 
+To inspect segmentation results (i.e. ```T1w_norm_seg.nii.gz```), it is recommended to utilise specialised software. [Here](https://wiki.epfl.ch/miplab/brain-viewers), you can find a quick overview of the main options.
 
 ## Other Available Models
 The following models are available with the ```--model ...``` option:

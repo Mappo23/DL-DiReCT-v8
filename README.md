@@ -49,8 +49,7 @@ Following files of interest are generated in the output directory:
 - T1w_norm.nii.gz		Re-sampled input volume
 - T1w_norm_seg.nii.gz		Segmentation
 - seg_<ROI>.nii.gz              <ROI> label probability map   
-- lesion.nii.gz                 lesion label probability map   
-- brain.nii.gz                  brain mask probability map
+- seg_lesion.nii.gz                 lesion label probability map   
 - result-vol.csv		Segmentation volumes
 - label_def.csv			Label definitions of the segmentation
 ```

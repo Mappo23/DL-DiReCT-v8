@@ -10,7 +10,7 @@ In ```/pat_test_data``` folder we include few patient data examples in order to 
 To ensure consistency with the companion thesis work, we will only cover the segmentation capabilities only of the DL+DiReCT pipeline.
 
 
-![Abstract](doc/abstract.png){ width="800" height="600" style="display: block; margin: 0 auto"}
+![Abstract](doc/abstract.png){width="800" height="600" style="display: block; margin: 0 auto"}
 
 If you are using DL+DiReCT in your research, please cite ([bibtex](citations.bib)) the corresponding [publication](https://doi.org/10.1002/hbm.25159):
 ```

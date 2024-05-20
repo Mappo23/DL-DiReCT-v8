@@ -7,7 +7,7 @@ With this retrained version, the model gains the ability to be aware of lesions 
 
 In ```/pat_test_data``` folder we include few patient data examples in order to test model.
 
-To ensure consistency with the companion thesis work, we will only cover the segmentation capabilities only of the DL+DiReCT pipeline.
+To ensure consistency with the companion thesis work, we will cover the segmentation capabilities only of the DL+DiReCT pipeline.
 
 
 ![Abstract](doc/abstract.png)

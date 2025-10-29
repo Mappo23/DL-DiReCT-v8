@@ -400,7 +400,7 @@ def load_checkpoint(checkpoint_file, device):
         sys.exit(1)
         
     print('loading checkpoint {}'.format(checkpoint_file)) if VERBOSE else False
-    return torch.load(checkpoint_file, map_location=device, weights_only=False)
+    return torch.load(checkpoint_file, map_location=device)
 
 
 def validate_input(t1, t1_data):
